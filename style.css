@@ -1,7 +1,8 @@
-body{
-    background-color: red;
-}
-
 h1{
     font-family: sans-serif;
+}
+
+p{
+    color:purple;
+    background-color: lightgreen;
 }
